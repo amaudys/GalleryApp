@@ -1,0 +1,8 @@
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\bin\Debug\GalleryApp.exe
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\bin\Debug\GalleryApp.pdb
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\obj\x86\Debug\GalleryApp.SalaDeEspera.resources
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\obj\x86\Debug\GalleryApp.Properties.Resources.resources
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\obj\x86\Debug\GalleryApp.csproj.GenerateResource.Cache
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\obj\x86\Debug\GalleryApp.exe
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\obj\x86\Debug\GalleryApp.pdb
+c:\users\hectorburgos\documents\visual studio 2010\Projects\GalleryApp\GalleryApp\bin\Debug\GalleryApp.exe.config
